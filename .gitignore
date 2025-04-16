@@ -1,6 +1,6 @@
 /data/
 /include/
 /venv/
-/Lib/
-/Scripts/
+/data//Lib/
+/data/Scripts/
 pyvenv.cfg
