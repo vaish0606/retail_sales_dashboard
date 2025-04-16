@@ -1,0 +1,13 @@
+
+customers_week_1.csv
+customers_week_2.csv
+customers_week_3.csv
+customers_week_4.csv
+inventory_week_1.csv
+inventory_week_2.csv
+inventory_week_3.csv
+inventory_week_4.csv
+sales_week_1.csv
+sales_week_2.csv
+sales_week_3.csv
+sales_week_4.csv

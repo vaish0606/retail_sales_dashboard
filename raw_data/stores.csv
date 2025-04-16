@@ -1,0 +1,6 @@
+store_id,store_name,location,store_type
+S001,Downtown,Toronto,Suburban
+S002,West End,Vancouver,Suburban
+S003, Northgate,Calgary,Urban
+S004,South Mall,Montreal,Suburban
+S005,Central,Ottawa,Suburban

@@ -1,0 +1,11 @@
+background a0d1ff 85%
+place holder 70bbff 50%
+414FB1 FOR WRITING IN BLUE
+
+az104
+az400
+terraform
+kubernetes cks
+
+
+
