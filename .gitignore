@@ -1,4 +1,7 @@
-/data/
+/data/**/Lib/site-packages/
+/data/**/Lib
+/data/**/Scripts/
+**/Scripts
 /include/
 venv/**
 /data/Lib/
