@@ -1,6 +1,7 @@
 /data/
 /include/
-/venv/
+/venv/*
 /data/Lib/
 /data/Scripts/
 pyvenv.cfg
+/Lib/*

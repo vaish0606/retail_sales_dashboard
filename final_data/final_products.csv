@@ -5,47 +5,47 @@ P0003,Apples,Fresh Produce,Vegetables & Fruits,Each,1.21
 P0004,Bananas,Fresh Produce,Vegetables & Fruits,Each,1.02
 P0005,Potatoes,Fresh Produce,Vegetables & Fruits,Each,2.55
 P0006,Cream,Dairy & Bakery,Dairy,Each,35.81
-P0007,Bananas,Fresh Produce,Vegetables & Fruits,Each,6.25
-P0008,Grapes,Fresh Produce,Vegetables & Fruits,Each,2.16
-P0009,Apples,Fresh Produce,Vegetables & Fruits,Each,1.3
-P0010,Cream,Dairy & Bakery,Dairy,Each,31.54
-P0011,Grapes,Fresh Produce,Vegetables & Fruits,Each,1.41
-P0012,Grapes,Fresh Produce,Vegetables & Fruits,Each,3.84
-P0013,Muffin,Dairy & Bakery,Bakery,Each,11.22
-P0014,Glass Cleaner,Household & Others,Cleaning Supplies,Each,79.01
-P0015,Yogurt,Dairy & Bakery,Dairy,Each,44.78
-P0016,Soda,Pantry & Beverages,Snacks & Drinks,Each,51.23
-P0017,Bread,Dairy & Bakery,Bakery,Each,12.11
-P0018,Glass Cleaner,Household & Others,Cleaning Supplies,Each,73.28
-P0019,Butter,Dairy & Bakery,Dairy,Each,25.47
-P0020,Cream,Dairy & Bakery,Dairy,Each,35.83
-P0021,Onions,Fresh Produce,Vegetables & Fruits,Each,9.35
-P0022,Surface Cleaner,Household & Others,Cleaning Supplies,Each,74.87
-P0023,Juice,Pantry & Beverages,Snacks & Drinks,Each,69.63
-P0024,Grapes,Fresh Produce,Vegetables & Fruits,Each,3.18
-P0025,Croissant,Dairy & Bakery,Bakery,Each,21.51
-P0026,Dish Soap,Household & Others,Cleaning Supplies,Each,74.27
-P0027,Chips,Pantry & Beverages,Snacks & Drinks,Each,60.18
-P0028,Bananas,Fresh Produce,Vegetables & Fruits,Each,1.2
-P0029,Muffin,Dairy & Bakery,Bakery,Each,17.12
-P0030,Potatoes,Fresh Produce,Vegetables & Fruits,Each,1.19
-P0031,Bagel,Dairy & Bakery,Bakery,Each,11.55
-P0032,Energy Drink,Pantry & Beverages,Snacks & Drinks,Each,53.75
-P0033,Cheese,Dairy & Bakery,Dairy,Each,33.92
-P0034,Bagel,Dairy & Bakery,Bakery,Each,12.09
-P0035,Bagel,Dairy & Bakery,Bakery,Each,18.38
-P0036,Bread,Dairy & Bakery,Bakery,Each,11.58
-P0037,Apples,Fresh Produce,Vegetables & Fruits,Each,1.34
-P0038,Juice,Pantry & Beverages,Snacks & Drinks,Each,59.56
-P0039,Milk,Dairy & Bakery,Dairy,Each,41.27
-P0040,Milk,Dairy & Bakery,Dairy,Each,31.81
-P0041,Milk,Dairy & Bakery,Dairy,Each,27.9
-P0042,Bagel,Dairy & Bakery,Bakery,Each,10.92
-P0043,Dish Soap,Household & Others,Cleaning Supplies,Each,75.98
-P0044,Apples,Fresh Produce,Vegetables & Fruits,Each,2.59
-P0045,Grapes,Fresh Produce,Vegetables & Fruits,Each,3.51
-P0046,Bun,Dairy & Bakery,Bakery,Each,21.44
-P0047,Onions,Fresh Produce,Vegetables & Fruits,Each,3.7
-P0048,Muffin,Dairy & Bakery,Bakery,Each,22.37
-P0049,Cheese,Dairy & Bakery,Dairy,Each,30.86
-P0050,Bread,Dairy & Bakery,Bakery,Each,13.28
+P0007,Grapes,Fresh Produce,Vegetables & Fruits,Each,2.16
+P0008,Muffin,Dairy & Bakery,Bakery,Each,11.22
+P0009,Yogurt,Dairy & Bakery,Dairy,Each,44.78
+P0010,Soda,Pantry & Beverages,Snacks & Drinks,Each,51.23
+P0011,Bread,Dairy & Bakery,Bakery,Each,12.11
+P0012,Butter,Dairy & Bakery,Dairy,Each,25.47
+P0013,Onions,Fresh Produce,Vegetables & Fruits,Each,9.35
+P0014,Surface Cleaner,Household & Others,Cleaning Supplies,Each,74.87
+P0015,Juice,Pantry & Beverages,Snacks & Drinks,Each,69.63
+P0016,Croissant,Dairy & Bakery,Bakery,Each,21.51
+P0017,Dish Soap,Household & Others,Cleaning Supplies,Each,74.27
+P0018,Chips,Pantry & Beverages,Snacks & Drinks,Each,60.18
+P0019,Bagel,Dairy & Bakery,Bakery,Each,11.55
+P0020,Energy Drink,Pantry & Beverages,Snacks & Drinks,Each,53.75
+P0021,Cheese,Dairy & Bakery,Dairy,Each,33.92
+P0022,Milk,Dairy & Bakery,Dairy,Each,41.27
+P0023,Bun,Dairy & Bakery,Bakery,Each,21.44
+P0024,Tofu,Dairy & Bakery,Dairy,Each,22.5
+P0025,Cereal,Pantry & Beverages,Snacks & Drinks,Each,45.2
+P0026,Tomatoes,Fresh Produce,Vegetables & Fruits,Each,3.75
+P0027,Spinach,Fresh Produce,Vegetables & Fruits,Each,4.1
+P0028,Carrots,Fresh Produce,Vegetables & Fruits,Each,2.95
+P0029,Lettuce,Fresh Produce,Vegetables & Fruits,Each,3.2
+P0030,Pasta,Pantry & Beverages,Snacks & Drinks,Each,26.5
+P0031,Sugar,Pantry & Beverages,Snacks & Drinks,Each,18.45
+P0032,Salt,Pantry & Beverages,Snacks & Drinks,Each,10.25
+P0033,Olive Oil,Household & Others,Cooking Supplies,Each,55.6
+P0034,Cooking Oil,Household & Others,Cooking Supplies,Each,43.7
+P0035,Honey,Household & Others,Cooking Supplies,Each,37.9
+P0036,Jam,Household & Others,Cooking Supplies,Each,32.45
+P0037,Peanut Butter,Household & Others,Cooking Supplies,Each,38.1
+P0038,Green Beans,Fresh Produce,Vegetables & Fruits,Each,3.85
+P0039,Cauliflower,Fresh Produce,Vegetables & Fruits,Each,4.4
+P0040,Zucchini,Fresh Produce,Vegetables & Fruits,Each,4.9
+P0041,Mushrooms,Fresh Produce,Vegetables & Fruits,Each,5.25
+P0042,Chili Peppers,Fresh Produce,Vegetables & Fruits,Each,3.5
+P0043,Ginger,Fresh Produce,Vegetables & Fruits,Each,6
+P0044,Tea,Pantry & Beverages,Snacks & Drinks,Each,40.75
+P0045,Coffee,Pantry & Beverages,Snacks & Drinks,Each,52.35
+P0046,Water Bottles,Pantry & Beverages,Snacks & Drinks,Each,27.95
+P0047,Ice Cream,Pantry & Beverages,Snacks & Drinks,Each,39.9
+P0048,Black Beans,Pantry & Beverages,Snacks & Drinks,Each,18.75
+P0049,Shampoo,Household & Others,Personal Care,Each,34.5
+P0050,Strawberries,Fresh Produce,Vegetables & Fruits,Each,5.6
